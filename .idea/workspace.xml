@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b194cdd-f1bc-4c7b-b440-9e14955c3718" name="Changes" comment="" />
+    <list default="true" id="6b194cdd-f1bc-4c7b-b440-9e14955c3718" name="Changes" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/bin/~desktop/assignments/images/fashion.jpeg" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/~desktop/assignments/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/~desktop/assignments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/~desktop/assignments/blog.html" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/~desktop/assignments/blog.html" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/~desktop/assignments/mmh.css" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/~desktop/assignments/mmh.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/bin/~desktop/assignments" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,22 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/emobilis/Desktop/PhpStorm-221.5080.224/bin/~desktop/assignments/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/PhpStorm-221.5080.224/bin/~desktop/assignments/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$APPLICATION_HOME_DIR$/bin/~desktop/assignments/images" />
@@ -72,11 +80,24 @@
       <workItem from="1653915307342" duration="65000" />
       <workItem from="1653915403472" duration="588000" />
       <workItem from="1653916056834" duration="379000" />
-      <workItem from="1653916658612" duration="2466000" />
+      <workItem from="1653916658612" duration="2843000" />
+      <workItem from="1653974651791" duration="181000" />
+      <workItem from="1654167394412" duration="1460000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
